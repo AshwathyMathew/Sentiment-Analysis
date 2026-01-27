@@ -1,4 +1,6 @@
 # Sentiment-Analysis
+#Paste Index.html inside Templates folder
+#Create the static folder, paste the bootstrap, css and js files
 To predict whether the review is positive or negative
 <img width="362" height="218" alt="image" src="https://github.com/user-attachments/assets/67073614-e8b8-4d59-90ef-038dfb36f2e9" />
 Algorithm 	Accuracy Sentiment	Accuracy Heart Disease
